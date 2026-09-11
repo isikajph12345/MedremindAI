@@ -62,4 +62,4 @@ An elderly‑friendly web application that helps users manage medications, under
 
 The architecture separates the client, the FastAPI backend, and external AI/email services.
 
-![System_Architecture](assests/systemWorkFlow.png)
+![System_Architecture](SystemWorkFlow.jpeg)
