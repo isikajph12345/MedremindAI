@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    /* Soft lavender-pink backdrop matching your picture */
+    background: linear-gradient(135deg, #e9d5ff 0%, #f3e8ff 40%, #fbcfe8 70%, #d8b4fe 100%);
+    overflow-x: hidden;
+    color: #2e1065;
+    -webkit-font-smoothing: antialiased;
+  }
+}
